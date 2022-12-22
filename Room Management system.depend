@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1632845179 source:c:\users\venky\desktop\srinivash dsa\room management system\admin.cpp
+	"admin.h"
+
+1632845394 c:\users\venky\desktop\srinivash dsa\room management system\admin.h
+	<iostream>
+	<string.h>
+
+1632847251 source:c:\users\venky\desktop\srinivash dsa\room management system\booking.cpp
+	"booking.h"
+
+1632845395 c:\users\venky\desktop\srinivash dsa\room management system\booking.h
+	<iostream>
+	<string>
+
+1632845176 source:c:\users\venky\desktop\srinivash dsa\room management system\member.cpp
+	"member.h"
+
+1632845392 c:\users\venky\desktop\srinivash dsa\room management system\member.h
+	<iostream>
+	<string>
+
+1632845174 source:c:\users\venky\desktop\srinivash dsa\room management system\memberlist.cpp
+	"memberList.h"
+
+1632845390 c:\users\venky\desktop\srinivash dsa\room management system\memberlist.h
+	"member.h"
+	<iostream>
+
+1632824999 source:c:\users\venky\desktop\srinivash dsa\room management system\queue.cpp
+	"queue.h"
+
+1632845389 c:\users\venky\desktop\srinivash dsa\room management system\queue.h
+	<iostream>
+
+1633491572 source:c:\users\venky\desktop\srinivash dsa\room management system\room.cpp
+	"room.h"
+
+1633491545 c:\users\venky\desktop\srinivash dsa\room management system\room.h
+	<iostream>
+	<string>
+
+1633501517 source:c:\users\venky\desktop\srinivash dsa\room management system\roomlist.cpp
+	"roomList.h"
+
+1633491583 c:\users\venky\desktop\srinivash dsa\room management system\roomlist.h
+	"room.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+
+1632845170 source:c:\users\venky\desktop\srinivash dsa\room management system\stack.cpp
+	"stack.h"
+
+1632845385 c:\users\venky\desktop\srinivash dsa\room management system\stack.h
+	<iostream>
+
+1633508739 source:c:\users\venky\desktop\srinivash dsa\room management system\doublylinkedlist.cpp
+	"doublylinkedlist.h"
+
+1633007033 c:\users\venky\desktop\srinivash dsa\room management system\doublylinkedlist.h
+	"booking.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1633508804 source:c:\users\venky\desktop\srinivash dsa\room management system\main.cpp
+	"doublylinkedlist.h"
+	"roomlist.h"
+	"room.h"
+	"booking.h"
+	<string>
+	<windows.h>
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<ctime>
+	<fstream>
+
